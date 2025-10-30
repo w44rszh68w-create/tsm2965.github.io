@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>FitLife Gallery</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!-- W3.CSS Framework -->
+  <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+</head>
+<body class="w3-light-grey">
+
+  <!-- Main Gallery Section -->
+  <section id="start-your-fitness-plan" class="w3-content w3-padding-32" style="max-width:1200px">
+    <h2 class="w3-center w3-xxlarge w3-text-indigo">Start Your Fitness Plan</h2>
+    <p class="w3-center w3-large w3-text-dark-grey">Build strength, stay active, and transform your lifestyle.</p>
+
+    <div class="w3-row-padding">
+
+      <!-- 1 -->
+      <div class="w3-col l3 m6 s12 w3-margin-bottom w3-card-4 category-workout level-beginner">
+        <img src="https://images.unsplash.com/photo-1571019613578-2b193a01a18b?auto=format&fit=crop&w=800&q=60" alt="HIIT Cardio Blast" class="w3-image">
+        <div class="w3-container w3-white">
+          <h4>HIIT Cardio Blast</h4>
+          <p>High-energy beginner workout to boost endurance.</p>
+        </div>
+      </div>
+
+      <!-- 2 -->
+      <div class="w3-col l3 m6 s12 w3-margin-bottom w3-card-4 category-workout theme-transformation">
+        <img src="https://images.unsplash.com/photo-1598970434795-0c54fe7c0648?auto=format&fit=crop&w=800&q=60" alt="Strength Training" class="w3-image">
+        <div class="w3-container w3-white">
+          <h4>Strength Training</h4>
+          <p>Progressive weight sessions for muscle growth.</p>
+        </div>
+      </div>
+
+      <!-- 3 -->
+      <div class="w3-col l3 m6 s12 w3-margin-bottom w3-card-4 category-workout level-beginner">
+        <img src="https://images.unsplash.com/photo-1605296867304-46d5465a13f1?auto=format&fit=crop&w=800&q=60" alt="Morning Yoga Flow" class="w3-image">
+        <div class="w3-container w3-white">
+          <h4>Morning Yoga Flow</h4>
+          <p>Stretch and strengthen your body with mindful movement.</p>
+        </div>
+      </div>
+
+      <!-- 4 -->
+      <div class="w3-col l3 m6 s12 w3-margin-bottom w3-card-4 category-workout theme-transformation">
+        <img src="https://images.unsplash.com/photo-1558611848-73f7eb4001a1?auto=format&fit=crop&w=800&q=60" alt="Cardio Burn" class="w3-image">
+        <div class="w3-container w3-white">
+          <h4>Cardio Burn</h4>
+          <p>Fat-burning exercises to increase stamina and energy.</p>
+        </div>
+      </div>
+
+      <!-- 5 -->
+      <div class="w3-col l3 m6 s12 w3-margin-bottom w3-card-4 category-workout level-beginner">
+        <img src="https://images.unsplash.com/photo-1605296867724-3b4e7a9b8b0a?auto=format&fit=crop&w=800&q=60" alt="Pilates Power" class="w3-image">
+        <div class="w3-container w3-white">
+          <h4>Pilates Power</h4>
+          <p>Core-focused moves for strength and flexibility.</p>
+        </div>
+      </div>
+
+      <!-- 6 -->
+      <div class="w3-col l3 m6 s12 w3-margin-bottom w3-card-4 category-workout theme-transformation">
+        <img src="https://images.unsplash.com/photo-1517960413843-0aee8e2b3285?auto=format&fit=crop&w=800&q=60" alt="Transformation Challenge" class="w3-image">
+        <div class="w3-container w3-white">
+          <h4>Transformation Challenge</h4>
+          <p>Track your fitness evolution week by week.</p>
+        </div>
+      </div>
+
+      <!-- 7 -->
+      <div class="w3-col l3 m6 s12 w3-margin-bottom w3-card-4 category-workout level-beginner">
+        <img src="https://images.unsplash.com/photo-1605296867304-46d5465a13f1?auto=format&fit=crop&w=800&q=60" alt="Stretch & Recover" class="w3-image">
+        <div class="w3-container w3-white">
+          <h4>Stretch & Recover</h4>
+          <p>Improve mobility and prevent soreness after workouts.</p>
+        </div>
+      </div>
+
+      <!-- 8 -->
+      <div class="w3-col l3 m6 s12 w3-margin-bottom w3-card-4 category-workout theme-transformation">
+        <img src="https://images.unsplash.com/photo-1594737625785-cb37c57cb9c1?auto=format&fit=crop&w=800&q=60" alt="Endurance Boost" class="w3-image">
+        <div class="w3-container w3-white">
+          <h4>Endurance Boost</h4>
+          <p>Push your limits with interval-based challenges.</p>
+        </div>
+      </div>
+
+      <!-- 9 -->
+      <div class="w3-col l3 m6 s12 w3-margin-bottom w3-card-4 category-workout level-beginner">
+        <img src="https://images.unsplash.com/photo-1594737625785-cb37c57cb9c1?auto=format&fit=crop&w=800&q=60" alt="Balance & Core" class="w3-image">
+        <div class="w3-container w3-white">
+          <h4>Balance & Core</h4>
+          <p>Perfect your posture and strengthen stability muscles.</p>
+        </div>
+      </div>
+
+      <!-- 10 -->
+      <div class="w3-col l3 m6 s12 w3-margin-bottom w3-card-4 category-workout theme-transformation">
+        <img src="https://images.unsplash.com/photo-1594737625785-cb37c57cb9c1?auto=format&fit=crop&w=800&q=60" alt="Bodyweight Sculpt" class="w3-image">
+        <div class="w3-container w3-white">
+          <h4>Bodyweight Sculpt</h4>
+          <p>Shape your body using minimal equipment and space.</p>
+        </div>
+      </div>
+
+      <!-- 11 -->
+      <div class="w3-col l3 m6 s12 w3-margin-bottom w3-card-4 category-workout level-beginner">
+        <img src="https://images.unsplash.com/photo-1605296867304-46d5465a13f1?auto=format&fit=crop&w=800&q=60" alt="Outdoor Training" class="w3-image">
+        <div class="w3-container w3-white">
+          <h4>Outdoor Training</h4>
+          <p>Take your fitness outside for a refreshing experience.</p>
+        </div>
+      </div>
+
+      <!-- 12 -->
+      <div class="w3-col l3 m6 s12 w3-margin-bottom w3-card-4 category-workout theme-transformation">
+        <img src="https://images.unsplash.com/photo-1594737625785-cb37c57cb9c1?auto=format&fit=crop&w=800&q=60" alt="Full Body Reset" class="w3-image">
+        <div class="w3-container w3-white">
+          <h4>Full Body Reset</h4>
+          <p>A complete program to restore balance and vitality.</p>
+        </div>
+      </div>
+
+    </div>
+  </section>
+
+  <footer class="w3-center w3-padding-16 w3-small w3-text-grey">
+    <p>© 2025 FitLife Hub | Built with W3.CSS</p>
+  </footer>
+
+</body>
+</html>
